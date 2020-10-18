@@ -24,4 +24,12 @@ Explore Models my way from knowledge gathered📚✨
 3. Naive Bayes - Text Classification
   - Naive Bayes - MultinomialNB
   - TfidfVectorizer is used to calculate the weightage of words across all articles
+  
+4. Naive Bayes - Spam Filter
+  - Naive Bayes - MultinomialNB
+  - CountVectorizer - Convert a collection of text documents to a matrix of token counts 
+
+5. Naive Bayes - Wine Classification
+  - Naive Bayes - GaussianNB
+  
  
